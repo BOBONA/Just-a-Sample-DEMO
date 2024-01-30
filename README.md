@@ -1,5 +1,5 @@
 # Progress
-This project is currently in progress. Feel free to look at the source code or even download and compile the plugin yourself.
+This is a plugin demo with the key features completed. The licensing for the full version is still undecided so remains private.
 
 ### Completed Tasks
 - Responsive sample navigation 
@@ -9,10 +9,10 @@ This project is currently in progress. Feel free to look at the source code or e
 - FX modules with responsive displays
 
 ### Remaining Tasks
-- ADSR
-- Record option
-- "Bounce" feature
-- Pretty UI
+- Direct recording
+- "Bouncing"
+- Improved UI
+- Better preset management
 - Better undo/redo integration
 
 # Dependencies
